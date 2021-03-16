@@ -5,3 +5,4 @@ A backhoe model typically consists of a pump, pressure relief valve, directional
 
 A 3D model of a backhoe actuation system is then modelled using Simscape Multibody. The interaction between the components of the system and their performances are analysed. Observing and understanding the behaviour of each component in dynamic working conditions with respect to time are studied. This project presents the simulation results of the dynamic working of a backhoe model which can be used to analyse and optimise the performance of the actuation system.
 
+
